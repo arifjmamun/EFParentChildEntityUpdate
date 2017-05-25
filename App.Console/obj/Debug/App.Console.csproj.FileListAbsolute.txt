@@ -1,12 +1,1 @@
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\App.Console.exe.config
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\App.Console.exe
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\App.Console.pdb
 E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\EntityFramework.dll
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\EntityFramework.SqlServer.dll
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\EntityFramework.xml
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\EntityFramework.SqlServer.xml
-E:\Test Peroject\ProductOrderApp\App.Console\obj\Debug\App.Console.csprojResolveAssemblyReference.cache
-E:\Test Peroject\ProductOrderApp\App.Console\obj\Debug\App.Console.exe
-E:\Test Peroject\ProductOrderApp\App.Console\obj\Debug\App.Console.pdb
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\App.Core.dll
-E:\Test Peroject\ProductOrderApp\App.Console\bin\Debug\App.Core.pdb

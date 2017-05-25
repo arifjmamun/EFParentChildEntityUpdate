@@ -1,0 +1,13 @@
+E:\Test Peroject\ProductOrderApp\App.Core\obj\Debug\App.Core.csprojResolveAssemblyReference.cache
+E:\Test Peroject\ProductOrderApp\App.Core\bin\Debug\App.Core.dll.config
+E:\Test Peroject\ProductOrderApp\App.Core\bin\Debug\App.Core.dll
+E:\Test Peroject\ProductOrderApp\App.Core\bin\Debug\App.Core.pdb
+E:\Test Peroject\ProductOrderApp\App.Core\bin\Debug\EntityFramework.dll
+E:\Test Peroject\ProductOrderApp\App.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\Test Peroject\ProductOrderApp\App.Core\bin\Debug\EntityFramework.xml
+E:\Test Peroject\ProductOrderApp\App.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\Test Peroject\ProductOrderApp\App.Core\obj\Debug\App.Core.dll
+E:\Test Peroject\ProductOrderApp\App.Core\obj\Debug\App.Core.pdb
+E:\Test Peroject\ProductOrderApp\App.Core\obj\Debug\App.Core.Migrations.Init.resources
+E:\Test Peroject\ProductOrderApp\App.Core\obj\Debug\App.Core.csproj.GenerateResource.Cache
+E:\Test Peroject\ProductOrderApp\App.Core\obj\Debug\App.Core.Migrations.AddOrderByToOrder.resources
